@@ -1,5 +1,6 @@
 from tools.MultiBranchCNN import *
 from tensorflow import keras
+import os
 
 def predictSequenceFromSaveKerasMdl(test_path, mdl_path, testRs_path, ft_list=def_fts):
     test_fastas, test_fastas_file = geneFastasFromFastaFile(test_path)
@@ -16,9 +17,17 @@ def predictSequenceFromSaveKerasMdl(test_path, mdl_path, testRs_path, ft_list=de
     print("save %s prediction to: %s" % (test_path, testRs_path))
     return pred
 
+fasta=[]
+
 if __name__ == "__main__":
-    # generate test features
-    test_path = "/home/yanjielu/MBC-Attention/test.fasta"
-    mdl_path = "/home/yanjielu/MBC-Attention/model/whole_train.mdl"
-    predict_test_path = "/home/yanjielu/MBC-Attention/test_pred.csv"
-    pred = predictSequenceFromSaveKerasMdl(test_path, mdl_path, predict_test_path)
+    for file in os.listdir():
+        if file.endswith('.fasta'):
+            fasta.append(file)
+    for i in fasta:
+        name=i.replace('.fasta','')
+        # generate test features
+        test_path = i
+        mdl_path = 'model/whole_train.mdl'
+        predict_test_path = name+'.csv'
+        pred = predictSequenceFromSaveKerasMdl(test_path, mdl_path, predict_test_path)
+        

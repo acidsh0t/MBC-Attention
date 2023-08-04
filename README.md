@@ -15,3 +15,6 @@ Then do the following codes in the python console to test your own sequences:
     predict_test_path = "yourFolderName/test_pred.csv" # output path of the prediction
     
     pred = predictSequenceFromSaveKerasMdl(test_path, mdl_path, predict_test_path)
+
+# Jeremy Additions
+Copy amp `.fasta` to `MBC-Attention` and run `python3 test_mbc_attention.py`.
