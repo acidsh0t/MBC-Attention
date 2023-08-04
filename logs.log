@@ -1,0 +1,50 @@
+2023-08-04 16:15:59,223:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-08-04 16:15:59,225:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-08-04 16:15:59,225:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-08-04 16:15:59,226:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-08-04 16:20:19,266:WARNING:/mnt/c/Users/jtdej/Desktop/GitHub/MBC-Attention/tools/MultiBranchCNN.py:37: FutureWarning: In a future version of pandas all arguments of DataFrame.drop except for the argument 'labels' will be keyword-only.
+  new_df = df.drop(["default"], 1)
+
+2023-08-04 16:20:19,273:WARNING:/mnt/c/Users/jtdej/Desktop/GitHub/MBC-Attention/tools/MultiBranchCNN.py:37: FutureWarning: In a future version of pandas all arguments of DataFrame.drop except for the argument 'labels' will be keyword-only.
+  new_df = df.drop(["default"], 1)
+
+2023-08-04 16:20:19,321:WARNING:/mnt/c/Users/jtdej/Desktop/GitHub/MBC-Attention/tools/MultiBranchCNN.py:37: FutureWarning: In a future version of pandas all arguments of DataFrame.drop except for the argument 'labels' will be keyword-only.
+  new_df = df.drop(["default"], 1)
+
+2023-08-04 16:20:19,355:WARNING:/mnt/c/Users/jtdej/Desktop/GitHub/MBC-Attention/tools/MultiBranchCNN.py:37: FutureWarning: In a future version of pandas all arguments of DataFrame.drop except for the argument 'labels' will be keyword-only.
+  new_df = df.drop(["default"], 1)
+
+2023-08-04 16:20:19,381:WARNING:/mnt/c/Users/jtdej/Desktop/GitHub/MBC-Attention/tools/MultiBranchCNN.py:37: FutureWarning: In a future version of pandas all arguments of DataFrame.drop except for the argument 'labels' will be keyword-only.
+  new_df = df.drop(["default"], 1)
+
+2023-08-04 16:20:19,408:WARNING:/mnt/c/Users/jtdej/Desktop/GitHub/MBC-Attention/tools/MultiBranchCNN.py:37: FutureWarning: In a future version of pandas all arguments of DataFrame.drop except for the argument 'labels' will be keyword-only.
+  new_df = df.drop(["default"], 1)
+
+2023-08-04 16:20:19,436:WARNING:/mnt/c/Users/jtdej/Desktop/GitHub/MBC-Attention/tools/MultiBranchCNN.py:37: FutureWarning: In a future version of pandas all arguments of DataFrame.drop except for the argument 'labels' will be keyword-only.
+  new_df = df.drop(["default"], 1)
+
+2023-08-04 16:20:19,445:WARNING:/mnt/c/Users/jtdej/Desktop/GitHub/MBC-Attention/tools/MultiBranchCNN.py:37: FutureWarning: In a future version of pandas all arguments of DataFrame.drop except for the argument 'labels' will be keyword-only.
+  new_df = df.drop(["default"], 1)
+
+2023-08-04 16:20:19,451:WARNING:/mnt/c/Users/jtdej/Desktop/GitHub/MBC-Attention/tools/MultiBranchCNN.py:37: FutureWarning: In a future version of pandas all arguments of DataFrame.drop except for the argument 'labels' will be keyword-only.
+  new_df = df.drop(["default"], 1)
+
+2023-08-04 16:20:19,457:WARNING:/mnt/c/Users/jtdej/Desktop/GitHub/MBC-Attention/tools/MultiBranchCNN.py:37: FutureWarning: In a future version of pandas all arguments of DataFrame.drop except for the argument 'labels' will be keyword-only.
+  new_df = df.drop(["default"], 1)
+
+2023-08-04 16:20:19,463:WARNING:/mnt/c/Users/jtdej/Desktop/GitHub/MBC-Attention/tools/MultiBranchCNN.py:37: FutureWarning: In a future version of pandas all arguments of DataFrame.drop except for the argument 'labels' will be keyword-only.
+  new_df = df.drop(["default"], 1)
+
+2023-08-04 16:20:19,472:WARNING:/mnt/c/Users/jtdej/Desktop/GitHub/MBC-Attention/tools/MultiBranchCNN.py:37: FutureWarning: In a future version of pandas all arguments of DataFrame.drop except for the argument 'labels' will be keyword-only.
+  new_df = df.drop(["default"], 1)
+
+2023-08-04 16:20:19,478:WARNING:/mnt/c/Users/jtdej/Desktop/GitHub/MBC-Attention/tools/MultiBranchCNN.py:37: FutureWarning: In a future version of pandas all arguments of DataFrame.drop except for the argument 'labels' will be keyword-only.
+  new_df = df.drop(["default"], 1)
+
+2023-08-04 16:20:19,486:WARNING:/mnt/c/Users/jtdej/Desktop/GitHub/MBC-Attention/tools/MultiBranchCNN.py:37: FutureWarning: In a future version of pandas all arguments of DataFrame.drop except for the argument 'labels' will be keyword-only.
+  new_df = df.drop(["default"], 1)
+
